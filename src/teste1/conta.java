@@ -4,5 +4,6 @@ public class conta {
 	
 	int numero;
 	int saldo;
+	int coco;
 
 }
